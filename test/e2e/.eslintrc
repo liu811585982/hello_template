@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    "testcafe"
+  ],
+  "env": { 
+    "mocha": true
+  },
+  "globals": { 
+    "expect": true,
+    "sinon": true,
+    "fixture": true
+  },
+  "extends": [
+    "plugin:testcafe/recommended",
+    "standard"
+  ],
+  "rules": {
+    "no-debugger": "off",
+    "generator-star-spacing": "off",
+    "vue-i18nstring/no-chinese-character-js": 0
+  }
+}

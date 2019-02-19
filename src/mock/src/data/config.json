@@ -1,0 +1,26 @@
+﻿{
+  "status": true,
+  "alert": false,
+  "data": {
+    "calc_flg": "0",
+    "check_auth_flg": "0",
+    "cluster_domain": "hikvision.hos.com",
+    "download_redirect": "0",
+    "hotspot_cycle": "12",
+    "hotspot_switch": "0",
+    "layer_stor_ctrl": "3",
+    "listen_oss_port": "80",
+    "listen_oss_ssl_port": "443",
+    "listen_pic_cloud_down_port": "6120",
+    "listen_pic_cloud_manage_protocol": "6011",
+    "listen_pic_cloud_upload_port": "9011",
+    "mem_blk_percent": "10",
+    "ntp_interval": "1440",
+    "ntp_server": "127.0.0.1",
+    "url_encrypt_switch": "1",
+    "iTotalDisplayRecords": 0,
+    "iTotalRecords": 0,
+    "list": [ ]
+  },
+  "_hash_": "e7b7bd40-76d1-b2d7-47e3-d10aaeebb966"
+}

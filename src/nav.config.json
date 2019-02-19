@@ -1,0 +1,14 @@
+[
+  {
+    "title": "menu.main",
+    "icon": "h-icon-home",
+    "router": "/hik/main"
+  },
+  {
+    "title": "menu.demo",
+    "icon": "icon-cus icon-system",
+    "children": [
+      {"title": "menu.demoIndex", "router": "/demo"}
+    ]
+  }
+]

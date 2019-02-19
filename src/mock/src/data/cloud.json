@@ -1,0 +1,46 @@
+{
+  "status": true,
+  "alert": false,
+  "data": {
+    "total": 1,
+    "list": [{
+      "cloud_ak": "KAV0w885864Uf40E44bmwN7J4rJrB48F39AhVVCVHj024y36F26gv59uE6II994",
+      "cloud_id": "XXX7055",
+      "cloud_ip": "10.192.70.55",
+      "cloud_object_port": "6201",
+      "cloud_pin": "whhik123",
+      "cloud_port": "6021",
+      "cloud_sk": "O9YmkcI04W2TQXT6W6933965s3F7241K25pAPUaKX88a43f8vl55NhjHe47758V",
+      "cloud_user": "hos1",
+      "type": "0"
+    }],
+    "pageNum": 1,
+    "pageSize": 30,
+    "size": 30,
+    "startRow": 1,
+    "endRow": 30,
+    "pages": 42,
+    "prePage": 0,
+    "nextPage": 2,
+    "isFirstPage": true,
+    "isLastPage": false,
+    "hasPreviousPage": false,
+    "hasNextPage": true,
+    "navigatePages": 8,
+    "navigatepageNums": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "navigateFirstPage": 1,
+    "navigateLastPage": 8,
+    "firstPage": 1,
+    "lastPage": 8
+  },
+  "hash": "5839e525fd1348aeb4b923aac3f85987"
+}

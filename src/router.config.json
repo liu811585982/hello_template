@@ -1,0 +1,25 @@
+[
+  {
+    "path": "",
+    "redirect": "main"
+  },
+  {
+    "path": "main",
+    "component": "main/main",
+    "menuCode": "001"
+  },
+  {
+    "path": "demo",
+    "component": "demo/index",
+    "breadcrumb": ["menu.demoIndex"],
+    "router": ["/hik/demo"],
+    "menuCode": "002"
+  },
+  {
+    "path": "demo/child",
+    "component": "demo/child",
+    "breadcrumb": ["menu.demoIndex", "menu.demoChild"],
+    "router": ["/hik/demo", "/hik/demo/child"],
+    "menuCode": "002"
+  }
+]

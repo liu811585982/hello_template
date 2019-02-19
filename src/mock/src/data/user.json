@@ -1,0 +1,96 @@
+{
+  "status": true,
+  "alert": false,
+  "data": {
+    "total": 6,
+    "list": [{
+      "bucket_user_id": "935740510746",
+      "customer_name": "",
+      "mail_box": "",
+      "telephone_num": "",
+      "token": "",
+      "user_create_time": "2018-10-15 16:39:00",
+      "user_name": "testwj",
+      "user_size": "10737418240",
+      "user_type": "0"
+    }, {
+      "bucket_user_id": "126520460369",
+      "customer_name": "",
+      "mail_box": "",
+      "telephone_num": "",
+      "token": "",
+      "user_create_time": "2018-10-18 15:25:20",
+      "user_name": "lzj_nas",
+      "user_size": "536870912000",
+      "user_type": "0"
+    }, {
+      "bucket_user_id": "",
+      "customer_name": "",
+      "mail_box": "",
+      "telephone_num": "",
+      "token": "",
+      "user_create_time": "",
+      "user_name": "admin",
+      "user_size": "107374182400",
+      "user_type": "0"
+    }, {
+      "bucket_user_id": "",
+      "customer_name": "",
+      "mail_box": "",
+      "telephone_num": "",
+      "token": "",
+      "user_create_time": "",
+      "user_name": "hos1",
+      "user_size": "1073741824000",
+      "user_type": "0"
+    }, {
+      "bucket_user_id": "451940630588",
+      "customer_name": "",
+      "mail_box": "",
+      "telephone_num": "",
+      "token": "",
+      "user_create_time": "2018-10-15 15:19:00",
+      "user_name": "test111",
+      "user_size": "1073741824",
+      "user_type": "0"
+    }, {
+      "bucket_user_id": "436862050138",
+      "customer_name": "2",
+      "mail_box": "",
+      "telephone_num": "",
+      "token": "",
+      "user_create_time": "2018-10-18 09:41:02",
+      "user_name": "hik",
+      "user_size": "11811160064",
+      "user_type": "0"
+    }],
+    "pageNum": 1,
+    "pageSize": 30,
+    "size": 30,
+    "startRow": 1,
+    "endRow": 30,
+    "pages": 42,
+    "prePage": 0,
+    "nextPage": 2,
+    "isFirstPage": true,
+    "isLastPage": false,
+    "hasPreviousPage": false,
+    "hasNextPage": true,
+    "navigatePages": 8,
+    "navigatepageNums": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "navigateFirstPage": 1,
+    "navigateLastPage": 8,
+    "firstPage": 1,
+    "lastPage": 8
+  },
+  "hash": "5839e525fd1348aeb4b923aac3f85987"
+}
